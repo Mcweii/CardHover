@@ -24,7 +24,10 @@
                </div>
 
                <img src="assets/img/bg-card.jpg" alt="image" class="card__bg">
-               
+             
+               <a href="Landingpage.php" class="card__button">
+                  View More <i class="ri-arrow-right-line"></i>
+               </a>              
             </article>
 
             <article class="card__article">
@@ -37,6 +40,9 @@
 
                <img src="assets/img/bg-card.jpg" alt="image" class="card__bg">
 
+               <a href="Landingpage.php" class="card__button">
+                  View More <i class="ri-arrow-right-line"></i>
+               </a>
             </article>
 
             <article class="card__article">
@@ -49,6 +55,9 @@
 
                <img src="assets/img/bg-card.jpg" alt="image" class="card__bg">
 
+               <a href="Landingpage.php" class="card__button">
+                  View More <i class="ri-arrow-right-line"></i>
+               </a>
             </article>
          </div>
       </div>
